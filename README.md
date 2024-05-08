@@ -30,7 +30,7 @@ me.about()
 <details open align="center">
   <summary><b>🤗 Visitor</b></summary><br>
   <a href="https://instagram.com/yuki21_">
-    <img width="500" alt="Cute count" src="https://moe.isekai.eu.org/get/@MrTakt?theme=rule34"/>
+    <img width="500" alt="Cute count" src="https://count.getloli.com/get/@MrTakt?theme=rule34"/>
   </a>
 </details>
 
