@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzExMTg0MTE2LmdpZg==/original/wnAJ7R.gif" alt="Banner" width="500">
+  <img src="https://img.itch.zone/aW1nLzExMTg0MTE2LmdpZg==/original/wnAJ7R.gif" autoplay="true" alt="Banner" width="500">
 </p>
 
 ```python
